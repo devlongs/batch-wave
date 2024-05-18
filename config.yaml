@@ -1,0 +1,3 @@
+ethereum:
+  url: wss://eth-sepolia.g.alchemy.com/v2/25Rl8mnE77awqRL1XfinQx2jn2wl3bnk
+  private_key: c3ac0548961c058b9a4941cea1e45b49f40b3db37b84fcdcf3f6baf2c970b8d7
